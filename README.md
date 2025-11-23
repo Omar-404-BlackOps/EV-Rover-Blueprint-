@@ -1,2 +1,2 @@
 # EV-Rover-Blueprint-
-A robot (ROV) that detects waste types: Plastic, aluminum cans and electric waste, etc. after the detection the robot classifies the waste type and collects it in a specific box for each type
+A robot (ROV) that detects waste types: (Plastic, aluminum cans and electric waste, etc.) using AI & ML technology, it basically depends on an ESP CAM which is related to an AI module, after the detection the robot classifies the waste type and collects it in a specific box for each type using its robot arm and claw, this robot aims to solve environmental challenges especially waste management and plastic pollution near beaches.
